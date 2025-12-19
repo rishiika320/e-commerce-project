@@ -1,83 +1,75 @@
-# 🛍️ Local Store E-commerce Platform
+📦 Local Store E-Commerce Platform
 
-A simple and clean e-commerce website built using **HTML, CSS, and JavaScript**.  
-This project displays products, lets users view details, and add items to a cart — all using **local JSON data & client-side storage**.
+A simple and clean E-Commerce website built using HTML, CSS, and JavaScript.
+This project displays products, adds items to the cart, and updates cart count dynamically — perfect for beginners learning frontend development.
 
----
+🚀 Live Demo
 
-## 🚀 Features
+🔗 View Website:
+👉 https://rishiika320.github.io/e-commerce-project/
 
-### 🔹 Home Page
-- Displays a list of products  
-- Loads product data from `products.json`  
-- Clean and simple UI  
+🛠️ Tech Stack
+Technology	Purpose
+HTML5	Structure of the web pages
+CSS3	Styling and layout
+JavaScript	Functionality (cart update, dynamic content)
+JSON	Product data storage
+📁 Project Structure
+e-commerce-project/
+│
+├── index.html         # Homepage
+├── product.html       # Product listing
+├── cart.html          # Shopping cart
+├── style.css          # Styling
+├── script.js          # JavaScript logic
+├── products.json      # Product data
+└── images/            # Product images
 
-### 🔹 Product Detail Page
-- Shows a larger product image  
-- Description, price, and details  
-- Add to Cart button  
+✨ Features
 
-### 🔹 Cart Page
-- Shows all added items  
-- Total price calculation  
-- Remove items from cart  
+✔️ Responsive and clean UI
+✔️ Product listing page
+✔️ Add to cart functionality
+✔️ Dynamic cart count
+✔️ JSON-based product data
+✔️ Simple, easy-to-understand code
+✔️ Fully deployed with GitHub Pages
 
-### 🔹 Additional Features
-- Fully responsive layout  
-- Uses localStorage to save cart items  
-- Image handling using an `images/` folder  
-🛠 Technologies Used
+📸 Screenshots (Add your own)
 
-HTML5
+You can add screenshots like:
 
-CSS3
+![Homepage](images/screenshot1.png)
+![Products](images/screenshot2.png)
 
-JavaScript
-
-JSON
-
-VS Code
-
-Git & GitHub for version control
-
-🚀 Future Improvements
-
-User login system
-
-Checkout & payment integration
-
-Search & filter options
-
-Backend with Node.js + MongoDB
-
-👤 Author
-
-Rishika Suvarna
-📧 rishika.suvarna07@gmail.com
-
-💼 GitHub: https://github.com/rishiika320
-
-⭐ How to Use
-
-Clone the repo:
-
-git clone https://github.com/rishiika320/ecommerce-project.git
+🔧 How to Run Locally
+git clone https://github.com/rishiika320/e-commerce-project.git
+cd e-commerce-project
+open index.html
 
 
-Open the folder in VS Code
+Or simply double-click index.html after downloading.
 
-Right-click index.html → "Open with Live Server" (or open in browser)
+🚀 Deployment
 
-🌍 (Optional) Deploy on GitHub Pages
+This project is deployed using GitHub Pages.
 
-Go to Settings → Pages
+To redeploy:
 
-Select Deploy from branch
+Push updates to the main branch
 
-Branch: main
+GitHub will automatically update the live site
 
-Folder: root
+🤝 Contributing
 
-Click Save
+Pull requests are welcome!
+Feel free to fork this repo and improve the UI or add features.
 
-Your website will go live in 1 minute.
+📞 Contact
+
+If you want to connect or collaborate:
+
+Rishiika Suvarna
+🔗 GitHub: https://github.com/rishiika320
+
+🔗 LinkedIn: (add your LinkedIn link here)
